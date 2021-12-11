@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "name": "Batman",
+        "alterego": "Bruce Wayne",
+        "gender": "Male",
+        "age": 35
+    },
+    {
+        "id": "2",
+        "name": "Superman",
+        "alterego": "Clark Kent",
+        "gender": "Male",
+        "age": 27
+    },
+    {
+        "id":"3",
+        "name": "The Flash",
+        "alterego": "Barry Allen",
+        "gender": "Male",
+        "age": 25
+    },
+    {
+        "id":"4",
+        "name": "Wonder Woman",
+        "alterego": "Diana",
+        "gender": "Female",
+        "age": 25
+    }
+]

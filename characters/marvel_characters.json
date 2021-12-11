@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "name": "Captain America",
+        "alterego": "Steve Rogers",
+        "gender": "Male",
+        "age": 32
+    },
+    {
+        "id": "2",
+        "name": "Spiderman",
+        "alterego": "Peter Parker",
+        "gender": "Male",
+        "age": 18
+    },
+    {
+        "id":"3",
+        "name": "Black Widow",
+        "alterego": "Natasha Romanoff",
+        "gender": "Female",
+        "age": 27
+    }
+]
